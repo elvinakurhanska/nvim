@@ -1,0 +1,67 @@
+[INFO  Tue 29 Jun 2021 06:58:29 PM] .../site/pack/packer/start/packer.nvim/lua/packer/clean.lua:79: Already clean!
+[ERROR Tue 29 Jun 2021 06:58:29 PM] .../site/pack/packer/start/packer.nvim/lua/packer/async.lua:20: Error in coroutine: ...ite/pack/packer/start/packer.nvim/lua/packer/display.lua:669: Vim(vnew):E11: Invalid in command-line window; <CR> executes, CTRL-C quits: 65vnew
+[INFO  Tue 29 Jun 2021 07:00:50 PM] .../site/pack/packer/start/packer.nvim/lua/packer/clean.lua:79: Already clean!
+[ERROR Tue 29 Jun 2021 07:00:50 PM] .../site/pack/packer/start/packer.nvim/lua/packer/async.lua:20: Error in coroutine: ...ite/pack/packer/start/packer.nvim/lua/packer/display.lua:669: Vim(vnew):E11: Invalid in command-line window; <CR> executes, CTRL-C quits: 65vnew
+[INFO  Tue 29 Jun 2021 07:58:06 PM] .../site/pack/packer/start/packer.nvim/lua/packer/clean.lua:79: Already clean!
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed numToStr/FTerm.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed nacro90/numb.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed kevinhwang91/nvim-bqf
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed ahmedkhalf/lsp-rooter.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed monaqa/dial.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed glepnir/galaxyline.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed kyazdani42/nvim-web-devicons
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed windwp/nvim-ts-autotag
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed folke/which-key.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed terrortylor/nvim-comment
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed andweeb/presence.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed nvim-lua/popup.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed phaazon/hop.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed kabouzeid/nvim-lspinstall
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed simrat39/symbols-outline.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed norcalli/nvim-colorizer.lua
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed Pocco81/TrueZen.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed mfussenegger/nvim-dap
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed andymass/vim-matchup
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed kevinhwang91/rnvimr
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed folke/trouble.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed f-person/git-blame.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed hrsh7th/nvim-compe
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed neovim/nvim-lspconfig
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed ChristianChiarulli/dashboard-nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed lewis6991/gitsigns.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed nvim-telescope/telescope-project.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed windwp/nvim-autopairs
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed hrsh7th/vim-vsnip
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed glepnir/lspsaga.nvim
+[DEBUG Tue 29 Jun 2021 07:58:06 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed nvim-telescope/telescope.nvim
+[DEBUG Tue 29 Jun 2021 07:58:07 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed nvim-treesitter/nvim-treesitter
+[DEBUG Tue 29 Jun 2021 07:58:07 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed metakirby5/codi.vim
+[DEBUG Tue 29 Jun 2021 07:58:07 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed rafamadriz/friendly-snippets
+[DEBUG Tue 29 Jun 2021 07:58:07 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed romgrk/barbar.nvim
+[DEBUG Tue 29 Jun 2021 07:58:07 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed kyazdani42/nvim-tree.lua
+[DEBUG Tue 29 Jun 2021 07:58:07 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed windwp/nvim-spectre
+[DEBUG Tue 29 Jun 2021 07:58:07 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed JoosepAlviste/nvim-ts-context-commentstring
+[DEBUG Tue 29 Jun 2021 07:58:07 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed nvim-treesitter/playground
+[DEBUG Tue 29 Jun 2021 07:58:07 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed nvim-telescope/telescope-fzy-native.nvim
+[DEBUG Tue 29 Jun 2021 07:58:08 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed nvim-lua/plenary.nvim
+[DEBUG Tue 29 Jun 2021 07:58:08 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed christianchiarulli/nvcode-color-schemes.vim
+[DEBUG Tue 29 Jun 2021 07:58:14 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed turbio/bracey.vim
+[DEBUG Tue 29 Jun 2021 07:58:14 PM] ...ite/pack/packer/start/packer.nvim/lua/packer/install.lua:23: Installed iamcco/markdown-preview.nvim
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/nvim-lspconfig/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/telescope.nvim/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/nvim-dap/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/nvim-compe/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/vim-vsnip/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/start/nvim-treesitter/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/vim-matchup/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/nvim-tree.lua/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/start/rnvimr/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/gitsigns.nvim/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/dashboard-nvim/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/dial.nvim/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/barbar.nvim/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/TrueZen.nvim/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/hop.nvim/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/nvim-colorizer.lua/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/bracey.vim/doc
+[INFO  Tue 29 Jun 2021 07:58:14 PM] ...ack/packer/start/packer.nvim/lua/packer/plugin_utils.lua:84: Updating helptags for /home/berserk/.local/share/nvim/site/pack/packer/opt/codi.vim/doc
